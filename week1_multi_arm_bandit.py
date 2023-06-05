@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 
 def gaussian_arm():
     value = np.random.normal(2, 1)
+
     return value
 
 
